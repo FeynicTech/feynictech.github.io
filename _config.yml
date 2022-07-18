@@ -1,0 +1,17 @@
+title: Feynic Technology
+description: Making emerging technology more approachable for investors, founders & institutions
+
+# disabled because we are using a custom domain
+#baseurl: /business-frontpage 
+
+color-scheme: "#0086d6" # the scheme can be any HEX code like "#00aa55"
+
+sass:
+  sass_dir: /assets/css/_sass
+  style: compressed
+
+include:
+  - _pages
+
+exclude:
+  - .sass-cache
