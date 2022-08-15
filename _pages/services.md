@@ -78,152 +78,52 @@ permalink: /services/
 	
 ## <a name="investors"></a><span style="color: #0086d6;">For Investors</span>
 
-<div class="row">
-	<div class="column">
-		<div class="card">
-			<h4>Seed Advice</h4>
-		</div>
-	</div>
+**Your Goals...**
 
-	<div class="column">
-		<div class="card">
-			<h4>Market Insights</h4>
-		</div>
-	</div>
-</div>
++ to gain greater understanding of emerging technologies
++ to create a strategic road map
++ to understand the vulnerabilities, threats and opportunities inherent in current and future tech investments
++ to diversify and strengthen your portfolio
++ to know when to be a passive or active investor
++ to identify potential buyers
 
-<div class="row">
-	<div class="column">
-		<div class="card">
-			<img src="/assets/img/Seed.png">
-			<br>
-			<p>Translating research</p>
-			<p>Identifying high growth potential</p>
-			<p>Locating adjacent investments to the existing portfolio</p>
-		</div>
-	</div>
-	
-	<div class="column">
-		<div class="card">
-			<img src="/assets/img/Market_Insights.png">
-			<br>
-			<p>Example text</p>
-		</div>
-	</div>
-</div>
+If any – or all – of these are on your to-do list, you’ll want to [talk to us](mailto:info@feynic.com "Contact us")
 
 ***
-	
+
 ## <a name="founders"></a><span style="color: #0086d6;">For Founders</span>
 
-<div class="row">
-	<div class="column">
-		<div class="card">
-			<h4>Advisory Services</h4>
-		</div>
-	</div>
+**You want...** 
 
-	<div class="column">
-		<div class="card">
-			<h4>Seed Funding</h4>
-		</div>
-	</div>
-	
-	<div class="column">
-		<div class="card">
-			<h4>Training & Development</h4>
-		</div>
-	</div>
-</div>
+[//]: # "to summon eikons"
 
-<div class="row">
-	<div class="column">
-		<div class="card">
-			<img src="/assets/img/Advisory.png">
-			<br>
-			<p>Value proposition</p>
-			<p>Commercialisation strategy</p>
-			<p>Exit strategy planning</p>
-		</div>
-	</div>
-	
-	<div class="column">
-		<div class="card">
-			<img src="/assets/img/Seed.png">
-			<br>
-			<p>Some text</p>
-			<p>Some text</p>
-		</div>
-	</div>
-	
-	<div class="column">
-		<div class="card">
-			<img src="/assets/img/Training.png">
-			<br>
-			<p>Ideation & Innovation Workshops</p>
-			<p>Startup frameworks</p>
-			<p>Minimum viable product development</p>
-			<p>Specialism training</p>
-			<p>Mentoring</p>
-		</div>
-	</div>
-</div>
++ to take an idea from humble beginnings to sustainable, commercial success.
++ to create a business plan – and then pitch it successfully.
++ to source funding, whether pre-seed, series or major capital investment.
++ to understand why your established business has failed to progress.
++ to develop a coherent business strategy.
++ to create an infrastructure that underpins that strategy and allows your business to breathe and flourish.
++ to refine your products/services to take them to the next level.
++ to understand marketing and customer service better.
++ to do business development better, whether B2B and/or B2C.
++ to find the best talent to power your business – and keep them.
+
+And that's where we come in. [Reach out to us](mailto:info@feynic.com "Contact us") to find out more.
 
 ***
 
 ## <a name="institutions"></a><span style="color: #0086d6;">For Institutions</span>
 
-<div class="row">
-	<div class="column">
-		<div class="card">
-			<h4>Advisory Services</h4>
-		</div>
-	</div>
+**You need...**
 
-	<div class="column">
-		<div class="card">
-			<h4>Financial Assistance</h4>
-		</div>
-	</div>
-	
-	<div class="column">
-		<div class="card">
-			<h4>Professional Services</h4>
-		</div>
-	</div>			
-</div>
++ to develop a clear understanding of your value proposition.
++ to discover where and when to find hidden funding – and to get it.
++ to understand the differences between governance in the public and private sectors – and use them to your advantage.
++ to turn wants into actions with execution strategies that work.
++ to find like-minded companies with whom you can work in partnership.
++ to enhance sales, marketing, talent and customer service functions across the business.
 
-<div class="row">
-	<div class="column">
-		<div class="card">
-			<img src="/assets/img/Advisory.png">
-			<br>
-			<p>Ecosystem design, development and delivery</p>
-			<p>Cluster strategy</p>
-		</div>
-	</div>
-
-	<div class="column">
-		<div class="card">
-			<img src="/assets/img/Finance.png">
-			<br>
-			<p>Achieving commercial intent support</p>
-			<p>Negotiation of consortium financing</p>
-			<p>Identification of alternative funding options</p>
-		</div>
-	</div>
-	
-	<div class="column">
-		<div class="card">
-			<img src="/assets/img/Professional.png">
-			<br>
-			<p>Post-launch support for accelerator participants</p>
-			<p>Commercial direction for research</p>
-			<p>Training course design</p>
-			<p>Insights into international partnership opportunities</p>
-		</div>
-	</div>			
-</div>
+If any – or all – of these are on your to-do list, you’ll want to [talk to us](mailto:info@feynic.com "Contact us")
 
 <script>
 //Get the button:

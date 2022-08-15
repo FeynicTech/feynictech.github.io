@@ -4,7 +4,7 @@ description: Making emerging technology more approachable for investors, founder
 # disabled because we are using a custom domain
 #baseurl: /business-frontpage 
 
-color-scheme: "#0086d6" # the scheme can be any HEX code like "#00aa55"
+color-scheme: "#007FDC" # the scheme can be any HEX code like "#00aa55"
 
 sass:
   sass_dir: /assets/css/_sass
