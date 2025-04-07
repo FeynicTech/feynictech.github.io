@@ -11,7 +11,7 @@ feature_row:
   - image_path: /assets/img/we-do.png
     alt: "A man holding a lightbulb in outstretched hands"
     title: "What we do"
-    excerpt: "We help founders commercialise their tech ideas and guide investors in understanding emerging technologies. As both consultants and active investors, we support the growth of horizon 2/3 technologies ready to scale."
+    excerpt: "We help founders commercialise their tech ideas and guide investors in understanding emerging technologies. As both consultants and active investors, we support the growth of horizon 2 & 3 technologies ready to scale."
     #url: "#test-link"
   - image_path: /assets/img/methodology.png
     alt: "Highlighted text saying STEPS on a page"
@@ -21,7 +21,7 @@ feature_row:
   - image_path: /assets/img/we-are.png
     alt: "Many people placing hands on top of each other in a team huddle"
     title: "Who we are"
-    excerpt: "We are a team of four experts from corporate backgrounds across EMEA and North America. Our skills span Technical Innovation, Enterprise Integration, Fund Management, and Private Equity, with a focus on technical and diverse sector projects, including biomedical, public sector, space, and big data."
+    excerpt: "We are a team of experts from corporate backgrounds across EMEA and North America. Our skills span Technical Innovation, Enterprise Integration, Fund Management, and Private Equity, with a focus on technical and diverse sector projects, including big data, biomedical, cybersecurity, engineering, manufacturing, public sector, and the space sector."
     #url: "#test-link"
 ---
 
