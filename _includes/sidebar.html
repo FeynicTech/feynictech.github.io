@@ -1,16 +1,19 @@
-<div class="col-md-4 mb-5">
-  <h2>Contact Us</h2>
-  <hr />
-  <address>
-    <abbr title="Email"><img src="/assets/img/socials/email.png" width="24" height="24"></abbr>
-    &nbsp; <a href="mailto:info@feynic.com" style="color:#0086d6;">Contact Us</a>
-  </address>
-  <address>
-    <abbr title="Linkedin"><img src="/assets/img/socials/linkedin.png" width="24" height="24"></abbr>
-    &nbsp; <a href="https://www.linkedin.com/company/feynic-tech/" style="color:#0086d6;">Linkedin</a>
-  </address>
-  <address>
-    <abbr title="Twitter"><img src="/assets/img/socials/twitter.png" width="24" height="24"></abbr>
-    &nbsp; <a href="https://twitter.com/FeynicTech" style="color:#0086d6;">Twitter</a>
-  </address>
-</div>
+{% if page.author_profile or layout.author_profile or page.sidebar %}
+  <div class="sidebar sticky">
+  {% if page.author_profile or layout.author_profile %}{% include author-profile.html %}{% endif %}
+  {% if page.sidebar %}
+    {% for s in page.sidebar %}
+      {% if s.image %}
+        <img src="{{ s.image | relative_url }}"
+             alt="{% if s.image_alt %}{{ s.image_alt }}{% endif %}">
+      {% endif %}
+      {% if s.title %}<h3>{{ s.title }}</h3>{% endif %}
+      {% if s.text %}{{ s.text | markdownify }}{% endif %}
+      {% if s.nav %}{% include nav_list nav=s.nav %}{% endif %}
+    {% endfor %}
+    {% if page.sidebar.nav %}
+      {% include nav_list nav=page.sidebar.nav %}
+    {% endif %}
+  {% endif %}
+  </div>
+{% endif %}

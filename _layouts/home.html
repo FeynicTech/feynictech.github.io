@@ -1,0 +1,23 @@
+---
+layout: splash
+---
+
+{{ content }}
+
+<!-- <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].about_us | default: "About Us" }}</h3>
+
+{% if paginator %}
+  {% assign posts = paginator.pages %}
+{% else %}
+  {% assign posts = site.pages %}
+{% endif %}
+
+{% assign entries_layout = page.entries_layout | default: 'list' %}
+<div class="entries-{{ entries_layout }}">
+  {% assign custom_entries = site.pages %}
+  {% include documents-collection.html entries=custom_entries type=entries_layout %}
+</div>
+
+{% include paginator.html %}
+
+-->
