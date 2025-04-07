@@ -15,9 +15,9 @@
 minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "en-GB"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Feynic Technology Inc."
+title                    : "Feynic Technology"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Feynic Technology"
@@ -118,8 +118,8 @@ analytics:
 author:
   name             : "Feynic Technology"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "TBD"
-  location         : "Montreal, Canada"
+  bio              : "Administrator of the Feynic Technology site"
+  location         : "Scotland, UK"
   email            :
   links:
     - label: "Email"
