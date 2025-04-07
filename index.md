@@ -4,7 +4,7 @@ author_profile: false
 header:
     #overlay_color: "#000000"
     overlay_image: /assets/img/Background.png
-tagline: "Emerging Technology Investment &amp; Development"
+tagline: "Emerging Technology Commercialisation"
 
 feature_row:
   - image_path: /assets/img/logo.png
