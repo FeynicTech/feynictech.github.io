@@ -26,3 +26,5 @@ feature_row:
 ---
 
 {% include feature_row %}
+
+<p style="text-align:center">Got a project in mind or need expert insights? Reach out to us here: <button style='font-size:24px'>Contact Us <i class='fas fa-envelope-square'></i></button></p>
