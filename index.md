@@ -27,5 +27,5 @@ feature_row:
 
 {% include feature_row %}
 
-<p style="text-align:center">Got a project in mind or need expert insights? Reach out to us here:</p>
+<p style="text-align:center">Got a project in mind or need expert insights?</p>
 <p style="text-align:center"><button style='font-size:24px' onclick="location.href='mailto:info@feynic.com'">Contact Us <i class='fas fa-envelope-square'></i></button></p>
